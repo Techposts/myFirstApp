@@ -1,0 +1,52 @@
+||geover.prod.do.dsp.mp.microsoft.com^
+||checkappexec.microsoft.com^$badfilter  # Defender
+||storeedgefd.dsx.mp.microsoft.com^$badfilter  # Microsoft Store
+||officeclient.microsoft.com^
+||tsfe.trafficshaping.dsp.mp.microsoft.com^
+||livetileedge.dsx.mp.microsoft.com^
+||win10.ipv6.microsoft.com^
+||v10.vortex-win.data.microsoft.com^
+||geo-prod.do.dsp.mp.microsoft.com^
+||dl.delivery.mp.microsoft.com^$badfilter  # CDN for Windows Updates
+||clientconfig.passport.net^
+||device-metrics-us.amazon.com^
+||kv101-prod.do.dsp.mp.microsoft.com^
+||geover-prod.do.dsp.mp.microsoft.com^
+||mobile.pipe.aria.microsoft.com^
+||statsfe2.update.microsoft.com^
+||g.live.com^
+||displaycatalog.mp.microsoft.com^$badfilter  # MS Store
+||settings-win.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||ssw.live.com www.msftncsi.com^
+||tile-service.weather.microsoft.com^
+||service.weather.microsoft.com^
+||insideoutside.redmond.corp.microsoft.com^
+||t.urs.microsoft.com^
+||urs.microsoft.com^
+||mscrl.microsoft.com^
+||weeklyad.target.com^
+||sqm.telemetry.microsoft.com^
+||telecommand.telemetry.microsoft.com^
+||spynet2.microsoft.com^
+||apprep.smartscreen.microsoft.com^
+||dmd.metaservices.microsoft.com^
+||vortex.data.microsoft.com^
+||oca.telemetry.microsoft.com^
+||statsfe2.ws.microsoft.com^
+||c1.microsoft.com^
+||i1.services.social.microsoft.com^
+||corp.sts.microsoft.com^
+||c.microsoft.com^
+||mobile.pipe.aria.microsoft.com^
+||eu-mobile.events.data.microsoft.com^
+||ic3.events.data.microsoft.com^
+||sqm.telemetry.microsoft.com^
+||ieonline.microsoft.com^
+||watson.microsoft.com^
+||sqm.telemetry.microsoft.com.nsatc.net^
+||target.microsoft.com^
+||oca.telemetry.microsoft.com^
+||spynet2.microsoft.com^
+||c.microsoft.com^
