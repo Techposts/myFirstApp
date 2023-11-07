@@ -50,3 +50,5 @@
 ||oca.telemetry.microsoft.com^
 ||spynet2.microsoft.com^
 ||c.microsoft.com^
+||makeuseof.com^
+||techposts.org^
